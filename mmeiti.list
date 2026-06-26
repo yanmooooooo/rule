@@ -1,5 +1,3 @@
-#媒体
-#Telegram
 HOST,api.imem.app,Telegram
 HOST,api.swiftgram.app,Telegram
 HOST-SUFFIX,cdn-telegram.org,Telegram
@@ -40,8 +38,6 @@ IP-ASN,44907,Telegram
 IP-ASN,59930,Telegram
 IP-ASN,62014,Telegram
 IP-ASN,62041,Telegram
-
-
 HOST-SUFFIX,ads-twitter.com,Twitter
 HOST-SUFFIX,cms-twdigitalassets.com,Twitter
 HOST-SUFFIX,grok.com,Twitter
